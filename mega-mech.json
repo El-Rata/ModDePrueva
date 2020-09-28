@@ -1,0 +1,20 @@
+{
+	"localizedName":??? Mech Pad",
+	"description": "???.",
+	"size": 5,
+	"consumes": {
+		  "power": 0.8
+      "liquid": {
+			        "liquid": "molten",
+	},
+	"category": "upgrade",
+	"research": "omega-mech-pad",
+	"requirements": [
+		{ "item": "copper", "amount": 20 },
+		{ "item": "lead", "amount": 5 },
+		{ "item": "graphite", "amount": 8 },
+		{ "item": "silicon", "amount": 15 },
+		{ "item": "titanium", "amount": 19 },
+		{ "item": "thorium", "amount": 16 },
+	]
+}
